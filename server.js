@@ -73,6 +73,6 @@ app.get('/', (req, res) => {
 });
 
 app.listen(PORT, () => {
-  console.log(`👟 Shoesiholic Dashboard running on http://localhost:${PORT}`);
+  console.log(`👟 Shoeshholic Dashboard running on http://localhost:${PORT}`);
   console.log(`   Data file: ${DATA_FILE}`);
 });
